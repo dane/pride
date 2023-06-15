@@ -19,7 +19,7 @@ $ go test -v ./... | pride -
 ## Installation
 
 ```
-$ go install github.com/dane/pride
+$ go install github.com/dane/pride@v0.1.0
 ```
 
 ## Credit
