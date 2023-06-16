@@ -2,6 +2,8 @@
 
 Run any terminal command with pride!
 
+<img src="./images/demo.gif">
+
 ## Usage
 
 Have `pride` execute your command and decorate the output:
